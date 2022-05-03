@@ -14,6 +14,6 @@ language : python 3.7 version
 
 using board : NRF52dk - Bluetooth Low Energy (BLE - 1000HZ)
 
-word : 5 word , test acc 91% & real acc 84%
+word : 10 word , test acc 95% & real acc 92%
 
 Maker : LEE SANG HOON
